@@ -35,11 +35,3 @@ class Card:
                 return acc
 
         return None
-
-    # def get_balance(self, account):
-    #     current_account = self.get_account(account)
-    #     return current_account.get_balance
-
-    # def withdraw(self, account, balance):
-    #     current_account = self.get_account(account)
-    #     return current_account.minus_balance(balance)

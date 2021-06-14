@@ -77,3 +77,19 @@ If you enter to the chequing account, they will give you 5 different options
 - (q) for quit
 
 You can use whatever options!
+
+### Class Description
+
+##### UML
+
+<img src="./uml.png">
+
+I used to observer pattern.
+
+Any co-workers can change UI through the `view.py`.
+
+`controller.py` controlls every events such as sign in, sign up, banking work, account setting, etc.
+
+`card.py` contains card number, pin, accounts. Thus, we can see card's pin and belonging accounts.
+
+`account.py` is account which can be saving, chequing, or credit.
