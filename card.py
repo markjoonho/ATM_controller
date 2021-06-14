@@ -19,7 +19,7 @@ class Card:
 
     def make_account(self, account_type, event=0):
         if account_type == "c":
-            new_account = Account(self.card_num, "Chequeing", event)
+            new_account = Account(self.card_num, "Chequing", event)
         elif account_type == "s":
             new_account = Account(self.card_num, "Saving", event)
         elif account_type == "r":

@@ -59,7 +59,7 @@ If you choose `(m)`, now you are able to create accounts
 
 After you make account, you are automatically going back to Account selecting page with additional option.
 
-- (c) move to Chequeing's Account
+- (c) move to Chequing's Account
 - (m) making New Account
 - (l) log out
 - (q) quit
